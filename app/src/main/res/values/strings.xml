@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Plus Integration</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="server_client_id">"222171354978-vd90149hjpd1ktleklkvsr2upu26hm11.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

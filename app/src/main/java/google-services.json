@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661593650457",
+    "project_id": "demoapp2-155412"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661593650457:android:6ab9435a2bab4205",
+        "android_client_info": {
+          "package_name": "com.example.optisolandroid.glogin3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661593650457-g0uk6eo7je0pilt93f6upnl309h9fq69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.optisolandroid.glogin3",
+            "certificate_hash": "D6F634682BD66DAD8CA06993EDF6AEBCD35D8D4F"
+          }
+        },
+        {
+          "client_id": "661593650457-1ki7sbhkp5v6q3ij0339asgb5togmtsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgdY_6KuJlcDpZcVcrQrf9MeXYTAgHBOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

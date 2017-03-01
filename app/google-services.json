@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222171354978",
+    "project_id": "firebase-glogin3"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222171354978:android:6ab9435a2bab4205",
+        "android_client_info": {
+          "package_name": "com.example.optisolandroid.glogin3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222171354978-vd90149hjpd1ktleklkvsr2upu26hm11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.optisolandroid.glogin3",
+            "certificate_hash": "534480B8A366BAFC8AF6B8D59D0E351CA7F75047"
+          }
+        },
+        {
+          "client_id": "222171354978-bj24a3j0i9nc5uo4ifrn3oobsf4sl9m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6tQSfPUxCedJ4Aoo4yP74O41hu1DeUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
